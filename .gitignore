@@ -1,0 +1,17 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/venv
+
+# misc
+
+
+*/migrations
+*/__pycache__
+# debug
+
+
+# local env files
+.env*.local
+
+db.sqlite3
